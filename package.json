@@ -1,0 +1,23 @@
+{
+  "name": "jest-cc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ren33000/JS--testing-JEST.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ren33000/JS--testing-JEST/issues"
+  },
+  "homepage": "https://github.com/Ren33000/JS--testing-JEST#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
