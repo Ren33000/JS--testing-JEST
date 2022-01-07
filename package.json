@@ -19,5 +19,8 @@
   "homepage": "https://github.com/Ren33000/JS--testing-JEST#readme",
   "devDependencies": {
     "jest": "^27.4.7"
+  },
+  "dependencies": {
+    "axios": "^0.24.0"
   }
 }
